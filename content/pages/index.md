@@ -1,5 +1,5 @@
 ---
-title: Home
+title: ''
 sections:
   - section_id: hero
     type: section_hero
